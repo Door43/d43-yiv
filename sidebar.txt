@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yiv:home|Door43 (yiv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yiv|d43-yiv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yiv/archive/master.zip|d43-yiv.zip]]
+
+**Recent Changes**
+{{changes>ns = yiv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yiv|Ethnologue data]]
+
